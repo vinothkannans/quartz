@@ -1,3 +1,6 @@
+---
+title: Visited Countries
+---
 | Year | Country                   |
 | ---- | ------------------------- |
 | 2018 | #Singapore                |
