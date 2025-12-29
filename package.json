@@ -9,7 +9,7 @@
   "homepage": "https://vinothkannan.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vinothkannans/vinothkannan.com.git"
+    "url": "https://github.com/vinothkannans/quartz.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
